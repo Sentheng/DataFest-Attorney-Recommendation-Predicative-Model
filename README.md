@@ -7,4 +7,4 @@ The project consisted of the following:
 #3 Predicative Model
 
 
-Included at the notebook files (ipynb) as well as the python files (py)
+Included are the ipynb and py files
