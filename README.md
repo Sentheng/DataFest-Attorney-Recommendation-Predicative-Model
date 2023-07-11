@@ -5,3 +5,6 @@ The project consisted of the following:
 #1 Basic data cleaning to understand the data better
 #2 Recommendation Model to recommend top 13 Attorneys based on the clients need via their questions to the attorney (provided in the data)
 #3 Predicative Model
+
+
+Included at the notebook files (ipynb) as well as the python files (py)
